@@ -1,9 +1,8 @@
 1. 📚 Student Management System  (Python CLI)
-
-A simple **Python command-line application** to manage student records.
-This project is beginner-friendly and demonstrates basic Python concepts
-like file handling, classes, and CRUD operations.
-This project is built to understand **real-world Python project structure**.
+    A simple **Python command-line application** to manage student records.
+     This project is beginner-friendly and demonstrates basic Python concepts
+     like file handling, classes, and CRUD operations.
+     This project is built to understand **real-world Python project structure**.
 
 ---
 
