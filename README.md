@@ -73,7 +73,7 @@ student_management/         # Create project folder
 
 7. 💻️ Complete Code 
 
-7.1. 📄 config/settings.py
+ 7.1. 📄 config/settings.py
 
 
 """ Application configuration file.
@@ -82,7 +82,7 @@ This file contains all global settings such as project paths, data directory, an
 import os
 from pathlib import Path
 
-# Base direcory of your projecthhh
+# Base direcory of your project
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Data directory to store application data
