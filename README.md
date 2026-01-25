@@ -82,7 +82,7 @@ This file contains all global settings such as project paths, data directory, an
 import os
 from pathlib import Path
 
-# Base directory of the project
+# Base direcory of your projecthhh
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Data directory to store application data
