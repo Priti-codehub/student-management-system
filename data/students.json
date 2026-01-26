@@ -1,3 +1,11 @@
 [
-  "s.to_dict() for s in self.students"
+  {
+    "id": 1,
+    "name": "dasd;",
+    "age": 11,
+    "grade": "3",
+    "email": "fasf",
+    "phone": null,
+    "created_at": "2026-01-26 11:23:14"
+  }
 ]

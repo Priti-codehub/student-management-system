@@ -32,7 +32,7 @@ class StudentService:
     def save_students(self) -> None:
         """ Saves all student records to the JSON file."""
         with open(STUDENTS_FILE, "w") as f:
-            data = ["s.to_dict() for s in self.students"]
+            data = [s.to_dict() for s in self.students]
             json.dump(data, f, indent=2)
 
     def create(self, name:str, age:int, grade:str, email:str, phone:str=None) -> Student:
